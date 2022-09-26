@@ -7,9 +7,9 @@ terminal
 main "Je hebt x onafgewerkte taken"
 met arguments
 
-py todo show
-py show completed
-py todo add [task]
-py todo delete task
-py todo complete [task index]
-py todo course [course name]
+- py todo show
+- py show completed
+- py todo add [task]
+- py todo delete task
+- py todo complete [task index]
+- py todo course [course name]
