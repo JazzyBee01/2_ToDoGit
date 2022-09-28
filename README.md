@@ -12,6 +12,6 @@ met arguments
 - py toDo.py show
 - py toDo.py show completed
 - py toDo.py add
-- py toDo.py delete task
+- py toDo.py delete [task index]
 - py toDo.py complete [task index]
 - py toDo.py course [course name]
