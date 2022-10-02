@@ -15,3 +15,6 @@ met arguments
 - py toDo.py delete [task index]
 - py toDo.py complete [task index]
 - py toDo.py course [course name]
+
+opmerking:
+poging tot werken met klassen niet afgewerkt. Json.dump() werkt enkel voor lijsten dus er voor geopteerd om de lijsten te behouden ipv er eigen gedefinieerde objecten van te maken.
